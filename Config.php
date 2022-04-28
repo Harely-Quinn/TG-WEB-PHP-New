@@ -9,5 +9,5 @@ class Config
      *
      * @var string
      */
-    public const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+    public const BOT_TOKEN = '5340197733:AAHWklDREDZozwscL4hVomHEXX8y-5pqwlw';
 }
